@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Doga",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/build/opencv/include/opencv4",
+            ],
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17"
+        }
+    ],
+    "version": 4
+}

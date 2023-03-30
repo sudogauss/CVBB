@@ -1,0 +1,6 @@
+[submodule "docs/themes/doxygen-awesome-css"]
+	path = docs/themes/doxygen-awesome-css
+	url = git@github.com:jothepro/doxygen-awesome-css.git
+[submodule "external/opencv_contrib"]
+	path = external/opencv_contrib
+	url = git@github.com:opencv/opencv_contrib.git
